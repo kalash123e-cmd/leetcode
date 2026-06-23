@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,4 +22,12 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
