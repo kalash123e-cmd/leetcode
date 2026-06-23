@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/0007-reverse-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/kalash123e-cmd/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Array
 |  |
 | ------- |
