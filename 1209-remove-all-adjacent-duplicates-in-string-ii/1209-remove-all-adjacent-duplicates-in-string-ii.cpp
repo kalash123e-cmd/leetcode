@@ -2,6 +2,7 @@ class Solution {
 public:
     string removeDuplicates(string s, int k) {
         stack<pair<char,int>> st;
+        string res;
         for(int i = 0; i<s.size(); i++){
             char c = s[i];
             if(st.empty()){
@@ -22,12 +23,13 @@ public:
                 st.pop();
             }
         }
-        string res;
+        // string res;
         while(!st.empty()){
             pair<char,int> p = st.top();
                 st.pop();
-                while(p.second--){
+                while(p.second > 0){
                     res.push_back(p.first);
+                    p.second--;
                 }
         }
         reverse(res.begin(),res.end());
