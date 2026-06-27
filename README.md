@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalash123e-cmd/leetcode/tree/master/0011-container-with-most-water) |
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalash123e-cmd/leetcode/tree/master/0011-container-with-most-water) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kalash123e-cmd/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
