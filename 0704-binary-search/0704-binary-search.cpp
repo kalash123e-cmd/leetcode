@@ -10,7 +10,6 @@ public:
             }
             if(arr[mid]<t){
                 i = mid +1;
-                // continue;
             }
             if(arr[mid]>t){
                 j = mid -1;
