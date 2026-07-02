@@ -30,9 +30,9 @@ public:
             return head->next;
         }
         while(count-- && i != NULL && i->next != NULL){
-            ListNode* nxt = i->next->next;
+            // ListNode* nxt = i->next->next;
             if(count == n){
-                i->next = nxt;
+                i->next = i->next->next;;
                 break;
             }
             else{
