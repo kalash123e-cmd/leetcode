@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0941-valid-mountain-array) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -25,6 +26,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
