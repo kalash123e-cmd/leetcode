@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0525-contiguous-array) |
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -142,12 +144,18 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
