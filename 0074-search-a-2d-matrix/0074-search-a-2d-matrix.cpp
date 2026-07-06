@@ -5,9 +5,9 @@ public:
         int i = 0;
         int j = (arr.size() * arr[0].size()) -1;
         while(i<=j){
-            long long mid = (i+j)/2;
-            long long row = mid/arr[0].size();
-            long long col = mid%arr[0].size();
+            int mid = (i+j)/2;
+            int row = mid/arr[0].size();
+            int col = mid%arr[0].size();
             if(arr[row][col] == t){
                 return true;
             }
