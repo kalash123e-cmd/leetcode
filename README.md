@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/kalash123e-cmd/leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/kalash123e-cmd/leetcode/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kalash123e-cmd/leetcode/tree/master/1189-maximum-number-of-balloons) |
