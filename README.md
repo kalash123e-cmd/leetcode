@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/kalash123e-cmd/leetcode/tree/master/0029-divide-two-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kalash123e-cmd/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
