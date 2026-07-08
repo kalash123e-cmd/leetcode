@@ -25,11 +25,12 @@ public:
                 pq.push(curr);
                 continue;
             }
-            if(curr.first < pq.top().first){
-                continue;
-            }
-            pq.pop();
+            // if(curr.first < pq.top().first){
+            //     continue;
+            // }
+            // pq.pop();
             pq.push(curr);
+            pq.pop();
         }
         vector<int> res;
 
