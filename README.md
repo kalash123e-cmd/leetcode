@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kalash123e-cmd/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalash123e-cmd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
