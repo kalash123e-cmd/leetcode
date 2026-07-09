@@ -38,6 +38,7 @@
 | [0941-valid-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
+| [1046-last-stone-weight](https://github.com/kalash123e-cmd/leetcode/tree/master/1046-last-stone-weight) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
@@ -178,6 +179,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/kalash123e-cmd/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
