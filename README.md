@@ -32,6 +32,7 @@
 | [0502-ipo](https://github.com/kalash123e-cmd/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0525-contiguous-array) |
+| [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
@@ -58,6 +59,7 @@
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -65,6 +67,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
@@ -80,6 +83,7 @@
 | [0061-rotate-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -178,6 +182,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/kalash123e-cmd/leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -194,6 +199,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/kalash123e-cmd/leetcode/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kalash123e-cmd/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
