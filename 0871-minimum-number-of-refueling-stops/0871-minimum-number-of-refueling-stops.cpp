@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minRefuelStops(int t, int sf, vector<vector<int>>& st) {
-        priority_queue<pair<int,int>> pq;
+        priority_queue<int> pq;
         if(st.size() != 0 && sf < st[0][0]){
             return -1;
         }
@@ -20,8 +20,8 @@ public:
         while(total < t){
             
             while(i<st.size()  && st[i][0] <= total){
-                pair<int,int> p = {st[i][1],st[i][0]};
-                pq.push(p);
+                // pair<int,int> p = {st[i][1],st[i][0]};
+                pq.push(st[i][1]);
                 i++;
             }
             if(pq.empty()){
@@ -29,7 +29,7 @@ public:
             }
             
             // sf = sf-pq.top().second;
-            total +=  pq.top().first ;
+            total +=  pq.top() ;
             // sf = sf+pq.top().first;
             // total +=  sf ;
             count++;
