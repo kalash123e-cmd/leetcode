@@ -233,4 +233,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kalash123e-cmd/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
