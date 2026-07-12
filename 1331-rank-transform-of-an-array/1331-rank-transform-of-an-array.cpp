@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         vector<int> temp;
-        vector<int> t;
         vector<int> res;
         for(int i = 0; i<arr.size(); i++){
             temp.push_back(arr[i]);
