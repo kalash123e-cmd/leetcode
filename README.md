@@ -8,6 +8,7 @@
 | [0029-divide-two-integers](https://github.com/kalash123e-cmd/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kalash123e-cmd/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalash123e-cmd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -86,6 +88,7 @@
 | [0061-rotate-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
