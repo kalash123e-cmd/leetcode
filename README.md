@@ -19,6 +19,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalash123e-cmd/leetcode/tree/master/0162-find-peak-element) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kalash123e-cmd/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -241,4 +243,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/kalash123e-cmd/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kalash123e-cmd/leetcode/tree/master/0177-nth-highest-salary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
