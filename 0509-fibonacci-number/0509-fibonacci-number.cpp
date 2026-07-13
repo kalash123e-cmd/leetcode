@@ -7,15 +7,9 @@ public:
         if(n == 1 ){
             return 1;
         }
-        int a = 0;
-        int b = 1;
-        int fibo ;
-        for(int i = 2; i<=n; i++){
-            fibo = a+b;
-            a = b;
-            b = fibo;
-        }
-        return fibo;
+        int ans1 = fib(n-1);
+        int ans2 = fib(n-2);
+        return ans1 + ans2;
         // return fib(n - 1) + fib(n - 2);
     }
 };
