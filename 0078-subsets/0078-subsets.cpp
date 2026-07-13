@@ -1,4 +1,8 @@
-void fun(vector<int>& arr,int n,int i, vector<int>& temp, vector<vector<int>>& res){
+
+
+class Solution {
+public:
+    void fun(vector<int>& arr,int n,int i, vector<int>& temp, vector<vector<int>>& res){
             if(i == n){
                 res.push_back(temp);
                 return;
@@ -9,8 +13,6 @@ void fun(vector<int>& arr,int n,int i, vector<int>& temp, vector<vector<int>>& r
             temp.pop_back();
 }
 
-class Solution {
-public:
     vector<vector<int>> subsets(vector<int>& arr) {
         vector<int> temp;
         vector<vector<int>> res;
