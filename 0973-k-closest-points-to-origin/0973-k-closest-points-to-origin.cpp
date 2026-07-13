@@ -8,9 +8,9 @@ public:
         } 
         for(int i = k; i<arr.size(); i++){
             int dist = (arr[i][0]*arr[i][0]) + (arr[i][1]*arr[i][1]);
-            if(dist > pq.top().first){
-                continue;
-            }
+            // if(dist > pq.top().first){
+            //     continue;
+            // }
             pq.push({dist,arr[i]});
             pq.pop();
         }
