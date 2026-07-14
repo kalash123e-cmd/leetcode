@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/kalash123e-cmd/leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/kalash123e-cmd/leetcode/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
@@ -231,6 +232,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kalash123e-cmd/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Memoization
@@ -249,5 +251,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
