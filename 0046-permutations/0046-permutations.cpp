@@ -5,12 +5,11 @@ public:
             res.push_back(temp);
             return;
         }
-        // vector<bool> count;
-        // count[0] = false;
         for(int j = 0; j<arr.size(); j++){
             if(count[j] == false){
-                count[j] = true;
+                
                 temp.push_back(arr[j]);
+                count[j] = true;
                 fun(arr,i+1,temp,res,count);
                 temp.pop_back(); 
                 count[j] = false;
