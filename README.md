@@ -29,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/kalash123e-cmd/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/kalash123e-cmd/leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0275-h-index-ii) |
@@ -262,6 +263,7 @@
 | [0046-permutations](https://github.com/kalash123e-cmd/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kalash123e-cmd/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/kalash123e-cmd/leetcode/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
 | ------- |
