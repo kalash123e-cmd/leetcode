@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kalash123e-cmd/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/kalash123e-cmd/leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -140,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
