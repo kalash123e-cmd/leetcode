@@ -6,7 +6,7 @@ public:
         }
         left = fun(res,root->left,p,q,left,right,self,total);
         right = fun(res,root->right,p,q,left,right,self,total);
-        self = 0;
+        // self = 0;
         if(root == p || root == q){
             self = 1;
         }
