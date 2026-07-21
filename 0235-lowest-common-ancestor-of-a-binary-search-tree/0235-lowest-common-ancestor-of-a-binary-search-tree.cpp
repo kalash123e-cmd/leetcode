@@ -10,11 +10,11 @@ public:
         }
         if(root->val < p->val){
             fun(res,root->right,p,q);
-            return;
+            // return;
         }
         if(root->val > q->val){
             fun(res,root->left,p,q);
-            return;
+            // return;
         }
         if(root->val < q->val && root->val > p->val){
             res = root;
