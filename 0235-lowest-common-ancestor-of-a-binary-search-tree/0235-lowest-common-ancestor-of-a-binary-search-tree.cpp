@@ -1,7 +1,7 @@
 class Solution {
 public:
     void fun(TreeNode* &res, TreeNode* root, TreeNode* p, TreeNode* q){
-        if(root == NULL){
+        if(!root){
             return;
         }
         if(root->val == p->val || root->val == q->val){
