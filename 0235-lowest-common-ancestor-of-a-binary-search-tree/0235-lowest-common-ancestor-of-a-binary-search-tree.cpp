@@ -4,7 +4,7 @@ public:
         if(root == NULL){
             return;
         }
-        if(root->val == p->val || root->val == q->val){
+        if(root == p || root == q){
             res = root;
             return;
         }
