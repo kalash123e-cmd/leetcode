@@ -7,12 +7,16 @@ public:
             
                 if(arr[i]!=0){
                     swap(arr[i],arr[j]);
-                    
+        //             arr[i] = arr[i] ^ arr[j];
+        // arr[j] = arr[i] ^ arr[j];
+        // arr[i] = arr[i] ^ arr[j];
                     j++;
                 }
                 
             
         }
+        // sort(arr.begin(),arr.end);
+        
 
 
     }
