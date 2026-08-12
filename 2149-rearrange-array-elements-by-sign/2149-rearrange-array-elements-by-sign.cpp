@@ -8,12 +8,12 @@ public:
         for(int i = 0; i<arr.size(); i++){
             if(arr[i] > 0 ){
                 res[k] = arr[i];
-                k = k + 2;
+                k += 2;
                 // continue;
             }
             else{
                 res[j] = arr[i];
-                j=j+2;
+                j+=2;
             }
         }
         return res;
