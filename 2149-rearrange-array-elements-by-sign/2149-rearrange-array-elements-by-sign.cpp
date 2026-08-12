@@ -11,7 +11,7 @@ public:
                 k = k + 2;
                 continue;
             }
-            if(arr[i]<0){
+            else{
                 res[j] = arr[i];
                 j=j+2;
             }
