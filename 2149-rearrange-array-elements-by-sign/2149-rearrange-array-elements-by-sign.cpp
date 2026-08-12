@@ -9,7 +9,7 @@ public:
             if(arr[i] > 0 ){
                 res[k] = arr[i];
                 k = k + 2;
-                continue;
+                // continue;
             }
             else{
                 res[j] = arr[i];
