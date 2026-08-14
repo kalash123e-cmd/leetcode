@@ -2,20 +2,20 @@ class Solution {
 public:
     string clearDigits(string s) {
         string res;
-        stack<int> st;
+        // stack<int> st;
         for(int i = 0; i<s.size(); i++){
             if(!(isdigit(s[i]))){
-                st.push(s[i]);
+                res.push_back(s[i]);
             }
             else{
-                st.pop();
+                res.pop_back();
             }
         }
-        while(!st.empty()){
-            res.push_back(st.top());
-            st.pop();
-        }
-        reverse(res.begin(),res.end());
+        // while(!st.empty()){
+        //     res.push_back(st.top());
+        //     st.pop();
+        // }
+        // reverse(res.begin(),res.end());
         return res;
     }
 };
