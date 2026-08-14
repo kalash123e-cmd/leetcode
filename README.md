@@ -132,6 +132,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/kalash123e-cmd/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -145,11 +146,13 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
