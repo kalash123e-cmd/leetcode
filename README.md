@@ -61,6 +61,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -110,6 +111,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sweep Line
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
