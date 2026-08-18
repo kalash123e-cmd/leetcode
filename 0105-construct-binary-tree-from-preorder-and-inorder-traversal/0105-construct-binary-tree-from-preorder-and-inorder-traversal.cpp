@@ -1,7 +1,5 @@
 class Solution {
 public:
-    // int idx = 0;
-    // unordered_map<int,int> f;
     TreeNode* fun(vector<int>& pre,int l,int h, unordered_map<int,int> &f, int &idx){
         if(l>h){
             return NULL;
@@ -13,7 +11,6 @@ public:
         node->right = fun(pre,id+1,h,f,idx);
         return node;
     }
-
     TreeNode* buildTree(vector<int>& pre, vector<int>& in) {
         unordered_map<int,int> f;
         for(int i = 0 ; i<in.size(); i++){
