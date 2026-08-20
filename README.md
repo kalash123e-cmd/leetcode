@@ -68,6 +68,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -165,6 +166,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
