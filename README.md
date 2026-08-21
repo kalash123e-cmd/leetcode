@@ -69,6 +69,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -215,6 +216,7 @@
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kalash123e-cmd/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/kalash123e-cmd/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
@@ -285,6 +287,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/kalash123e-cmd/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kalash123e-cmd/leetcode/tree/master/1046-last-stone-weight) |
+| [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Quickselect
 |  |
 | ------- |
