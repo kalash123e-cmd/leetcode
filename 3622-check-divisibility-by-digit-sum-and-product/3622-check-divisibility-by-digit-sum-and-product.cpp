@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        if(n/10 == 0 ){
+        if(n< 10 ){
             return false;
         }
         // if(n/10 == 1){
