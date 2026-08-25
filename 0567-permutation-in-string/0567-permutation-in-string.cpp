@@ -8,16 +8,13 @@ public:
         }
         int i = 0;
         int j = s.size()-1;
-        int count = 0;
+        // int count = 0;
         while(j<t.size()){
             vector<int> h(256,0);
-            count = 0;
+            int count = 0;
             for(int k = i; k<=j; k++){
                 h[t[k]]++;
                 if(h[t[k]] > f[t[k]]){
-                    // h[t[k]]--;
-                    // i++;
-                    // j++;
                     break;
                 }
                 count++;
