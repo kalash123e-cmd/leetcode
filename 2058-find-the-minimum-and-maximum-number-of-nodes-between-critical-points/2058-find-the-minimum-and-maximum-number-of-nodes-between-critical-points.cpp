@@ -1,9 +1,9 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        if(head->next->next  == NULL || head->next == NULL || head == NULL){
-            return {-1,-1};
-        }
+        // if(head->next->next  == NULL || head->next == NULL || head == NULL){
+        //     return {-1,-1};
+        // }
         vector<int> res;
         ListNode* t = head;
         int x = t->val;
