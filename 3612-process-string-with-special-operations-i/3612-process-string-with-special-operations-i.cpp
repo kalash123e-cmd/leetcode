@@ -7,7 +7,8 @@ public:
                 // res.push_back(s[i]);
                 res = res+s[i];
             }
-            if(s[i] == '%'){
+            else{
+                if(s[i] == '%'){
                 reverse(res.begin(),res.end());
             }
             if(s[i] == '*'){
@@ -18,6 +19,7 @@ public:
             }
             if(s[i] == '#'){
                 res = res+res;
+            }
             }
         }
         return res;
