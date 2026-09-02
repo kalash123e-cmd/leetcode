@@ -4,7 +4,8 @@ public:
         string res;
         for(int i = 0; i<s.size(); i++){
             if(isalpha(s[i]) ){
-                res.push_back(s[i]);
+                // res.push_back(s[i]);
+                res = res+s[i];
             }
             if(s[i] == '%'){
                 reverse(res.begin(),res.end());
