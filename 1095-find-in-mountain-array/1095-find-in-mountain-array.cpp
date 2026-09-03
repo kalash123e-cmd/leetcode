@@ -45,13 +45,13 @@ public:
             if(arr.get(mid) == t){
                 return mid;
             }
-            if(arr.get(mid) > t){
-                // j = mid-1;
-                i = mid+1;
+            if(arr.get(mid) < t){
+                j = mid-1;
+                // i = mid+1;
             }
             else{
-                // i = mid+1;
-                j = mid-1;
+                i = mid+1;
+                // j = mid-1;
             }
         }
         return -1;
