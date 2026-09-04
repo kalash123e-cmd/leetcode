@@ -1,19 +1,23 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& arr, int k) {
-        long long mx = LLONG_MIN;
-        // long long mn = LLONG_MAX;
-        // for(int i = 0; i<arr.size(); i++){
-        //     mn = min((long long)arr[i],mn);
-        // }
+        vector<int> a(arr.size());
+        vector<int> b(arr.size());
+        int mn = INT_MAX;
+        int mx = INT_MIN;
         for(int i = 0; i<arr.size(); i++){
-            long long mn = *min_element(arr.begin() + i, arr.begin() + arr.size() );
-            mx = max(mx,(long long)arr[i]);
-            if(mx - mn <= k){
+            mx = max(arr[i],mx);
+            a[i] = mx;
+        }
+        for(int i = arr.size()-1; i>=0; i--){
+            mn = min(arr[i],mn);
+            b[i] = mn;
+        }
+        for(int i = 0; i<arr.size(); i++){
+            if(a[i]-b[i] <= k){
                 return i;
             }
         }
         return -1;
     }
-    
 };
