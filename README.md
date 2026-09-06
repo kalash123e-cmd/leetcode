@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/kalash123e-cmd/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/kalash123e-cmd/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -32,6 +33,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kalash123e-cmd/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/kalash123e-cmd/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
@@ -292,6 +294,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kalash123e-cmd/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
