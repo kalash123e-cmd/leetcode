@@ -23,13 +23,12 @@ public:
             }
             if(f[arr[i] - 1] > 0){
                 count++;
-                // i++;
-                // continue;
+                i++;
+                continue;
             }
-            else{
-                res = max(res,count);
-                count = 1;
-            }
+           
+            res = max(res,count);
+            count = 1;
             i++;
         }
         return max(res,count);
