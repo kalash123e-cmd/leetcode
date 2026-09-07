@@ -42,6 +42,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kalash123e-cmd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/kalash123e-cmd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalash123e-cmd/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -230,6 +231,7 @@
 | [0076-minimum-window-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/kalash123e-cmd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kalash123e-cmd/leetcode/tree/master/0383-ransom-note) |
@@ -526,4 +528,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1095-find-in-mountain-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kalash123e-cmd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
