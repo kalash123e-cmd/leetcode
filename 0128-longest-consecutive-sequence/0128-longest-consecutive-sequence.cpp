@@ -10,11 +10,13 @@ public:
         
         // vector<int> f(50000);
         unordered_map<int,int> f;
-        for(int i = 0; i<arr.size() ; i++){
-            f[arr[i]]++;
-        }
+        // for(int i = 0; i<arr.size() ; i++){
+        //     f[arr[i]]++;
+        // }
+        f[arr[0]]++;
         int i = 1;
         while(i<arr.size()){
+            f[arr[i]]++;
             if(arr[i] == arr[i-1]){
                 i++;
                 continue;
