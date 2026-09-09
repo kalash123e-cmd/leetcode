@@ -14,7 +14,6 @@ public:
             int row = i + x[k];
             int col = j + y[k];
             if(valid(row,col,n,m) && arr[row][col] == '1' && vis[row][col] == 0){
-                // vis[row][col] = 1;
                 dfs(arr,vis,n,m,row,col);
             }
         }
