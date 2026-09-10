@@ -95,6 +95,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -320,6 +321,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/kalash123e-cmd/leetcode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -476,6 +478,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kalash123e-cmd/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/kalash123e-cmd/leetcode/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalash123e-cmd/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -527,6 +530,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kalash123e-cmd/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/kalash123e-cmd/leetcode/tree/master/0695-max-area-of-island) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kalash123e-cmd/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -561,4 +565,5 @@
 | [0128-longest-consecutive-sequence](https://github.com/kalash123e-cmd/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/kalash123e-cmd/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kalash123e-cmd/leetcode/tree/master/0695-max-area-of-island) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
