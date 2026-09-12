@@ -12,13 +12,14 @@ public:
     }
 
     //SAARE '1' YA ISLANDS CHECK KARNE KE LIYE BY DFS//
-    void dfs(vector<vector<char>>& arr, vector<vector<bool>>& vis, int n, int m, int i, int j){
-        vis[i][j] = 1;
+    void dfs(vector<vector<char>>& arr, int n, int m, int i, int j){
+        // vis[i][j] = 1;
+        arr[i][j] = '0';
         for(int k = 0; k<4; k++){
             int row = i + x[k];
             int col = j + y[k];
-            if(valid(row,col,n,m) && arr[row][col] == 'X' && vis[row][col] == 0){
-                dfs(arr,vis,n,m,row,col);
+            if(valid(row,col,n,m) && arr[row][col] == 'X' ){
+                dfs(arr,n,m,row,col);
             }
         }
         return;
@@ -29,15 +30,15 @@ public:
         int res = 0;
 
         // BOOL 2D VECTOR BANAYA HAI//
-        vector<vector<bool>> vis(n);
-        for(int i = 0 ; i< n; i++){
-            vector<bool> t(m,0);
-            vis[i] = t;
-        }
+        // vector<vector<bool>> vis(n);
+        // for(int i = 0 ; i< n; i++){
+        //     vector<bool> t(m,0);
+        //     vis[i] = t;
+        // }
         for(int i = 0; i<n; i++){
             for(int j = 0; j<m; j++){
-                if(arr[i][j] == 'X' && vis[i][j] == 0){
-                    dfs(arr,vis,n,m,i,j);
+                if(arr[i][j] == 'X' ){
+                    dfs(arr,n,m,i,j);
                     res++;
                 }
             }
