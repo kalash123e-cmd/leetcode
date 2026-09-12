@@ -63,6 +63,7 @@
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/kalash123e-cmd/leetcode/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/kalash123e-cmd/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kalash123e-cmd/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/kalash123e-cmd/leetcode/tree/master/0695-max-area-of-island) |
@@ -132,6 +133,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalash123e-cmd/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kalash123e-cmd/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kalash123e-cmd/leetcode/tree/master/0904-fruit-into-baskets) |
