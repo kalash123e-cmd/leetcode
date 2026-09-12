@@ -12,8 +12,8 @@ public:
         int i = 1;
         
         while(j<arr.size()){
-            sum -= arr[i-1];
-            sum += arr[j];
+            sum = (sum - arr[i-1]) + arr[j];
+            // sum += arr[j];
             avg = sum/k;
             res = max(res,avg), 
             j++;
