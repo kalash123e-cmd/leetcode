@@ -8,7 +8,7 @@ public:
         for(int i = 0; i<arr.size(); i++){
             f[arr[i]]++;
             sum += arr[i];
-            while(j<i && f[arr[i]] > 1){
+            while( f[arr[i]] > 1){
                 sum -= arr[j];
                 f[arr[j]]--;
                 j++;
