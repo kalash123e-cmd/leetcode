@@ -91,6 +91,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kalash123e-cmd/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2090-k-radius-subarray-averages](https://github.com/kalash123e-cmd/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -142,6 +143,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kalash123e-cmd/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kalash123e-cmd/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/kalash123e-cmd/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -266,6 +268,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/kalash123e-cmd/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
