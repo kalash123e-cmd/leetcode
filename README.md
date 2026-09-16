@@ -208,6 +208,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/kalash123e-cmd/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/kalash123e-cmd/leetcode/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -227,6 +228,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
 ## Simulation
@@ -235,6 +237,7 @@
 | [0054-spiral-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kalash123e-cmd/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kalash123e-cmd/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
