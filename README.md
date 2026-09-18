@@ -93,6 +93,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kalash123e-cmd/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kalash123e-cmd/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -149,6 +150,7 @@
 | [0904-fruit-into-baskets](https://github.com/kalash123e-cmd/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kalash123e-cmd/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kalash123e-cmd/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2090-k-radius-subarray-averages](https://github.com/kalash123e-cmd/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -164,6 +166,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kalash123e-cmd/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3904-smallest-stable-index-ii) |
