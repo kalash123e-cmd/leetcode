@@ -28,7 +28,7 @@ public:
             prev = curr;
             curr = nxt;
         }
-        slow->next = prev;
+        // slow->next = prev;
         while(prev != NULL){
             if(prev->val != head->val){
                 return false;
