@@ -62,6 +62,7 @@
 | [0283-move-zeroes](https://github.com/kalash123e-cmd/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/kalash123e-cmd/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/kalash123e-cmd/leetcode/tree/master/0502-ipo) |
@@ -392,6 +393,7 @@
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kalash123e-cmd/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/kalash123e-cmd/leetcode/tree/master/0502-ipo) |
