@@ -42,6 +42,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kalash123e-cmd/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kalash123e-cmd/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -268,6 +270,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kalash123e-cmd/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -656,4 +659,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/kalash123e-cmd/leetcode/tree/master/0785-is-graph-bipartite) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kalash123e-cmd/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
