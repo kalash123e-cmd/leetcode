@@ -673,4 +673,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalash123e-cmd/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
