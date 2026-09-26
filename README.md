@@ -104,6 +104,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2090-k-radius-subarray-averages](https://github.com/kalash123e-cmd/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -231,6 +232,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/kalash123e-cmd/leetcode/tree/master/2490-circular-sentence) |
@@ -314,6 +316,7 @@
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
