@@ -229,6 +229,7 @@
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kalash123e-cmd/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -258,6 +259,7 @@
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -683,4 +685,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/1291-sequential-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
