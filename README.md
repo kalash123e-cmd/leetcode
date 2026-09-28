@@ -232,6 +232,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -261,6 +262,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/3174-clear-digits) |
@@ -689,4 +691,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
