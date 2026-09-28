@@ -5,12 +5,14 @@ public:
         int count = 0;
         for(int i = 0; i<s.size(); i++){
             if(s[i] == '('){
-                count++;
+                // count++;
                 res.push_back(count%2);
+                count++;
             }
             else{
-                res.push_back(count%2);
                 count--;
+                res.push_back(count%2);
+                
             }
             // if(count%2 == 0){
             //     res.push_back(1);
