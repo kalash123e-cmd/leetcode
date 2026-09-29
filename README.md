@@ -39,6 +39,7 @@
 | [0039-combination-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kalash123e-cmd/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kalash123e-cmd/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/kalash123e-cmd/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -505,6 +506,7 @@
 | [0022-generate-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kalash123e-cmd/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/kalash123e-cmd/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/kalash123e-cmd/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kalash123e-cmd/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0113-path-sum-ii) |
@@ -715,4 +717,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kalash123e-cmd/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
