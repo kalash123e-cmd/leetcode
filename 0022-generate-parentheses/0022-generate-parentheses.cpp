@@ -10,13 +10,11 @@ public:
             fun(open+1,close,temp,res,n);
             temp.pop_back();
         }
-        
         if(close<open){
             temp.push_back(')');
             fun(open,close+1,temp,res,n);
             temp.pop_back();
         }
-        
     }
     vector<string> generateParenthesis(int n) {
         vector<string> res;
