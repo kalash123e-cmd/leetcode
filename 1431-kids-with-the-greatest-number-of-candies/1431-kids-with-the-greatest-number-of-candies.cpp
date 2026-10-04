@@ -10,9 +10,6 @@ public:
             if(arr[i]+k >= mx){
                 res[i] = 1;
             }
-            // else{
-            //     res[i] = 0;
-            // }
         }
         return res;
     }
