@@ -215,6 +215,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalash123e-cmd/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kalash123e-cmd/leetcode/tree/master/0283-move-zeroes) |
@@ -421,6 +422,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kalash123e-cmd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -467,6 +469,7 @@
 | [0016-3sum-closest](https://github.com/kalash123e-cmd/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/kalash123e-cmd/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kalash123e-cmd/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0229-majority-element-ii) |
@@ -496,6 +499,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kalash123e-cmd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kalash123e-cmd/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -799,6 +803,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kalash123e-cmd/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/kalash123e-cmd/leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
