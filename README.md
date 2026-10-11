@@ -287,6 +287,7 @@
 | [3340-check-balanced-string](https://github.com/kalash123e-cmd/leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3941-password-strength](https://github.com/kalash123e-cmd/leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
@@ -388,6 +389,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/kalash123e-cmd/leetcode/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
