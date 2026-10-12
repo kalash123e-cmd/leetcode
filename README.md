@@ -264,6 +264,7 @@
 | [0567-permutation-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/kalash123e-cmd/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kalash123e-cmd/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -371,6 +372,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kalash123e-cmd/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/kalash123e-cmd/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/kalash123e-cmd/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -504,6 +506,7 @@
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kalash123e-cmd/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0767-reorganize-string) |
+| [0791-custom-sort-string](https://github.com/kalash123e-cmd/leetcode/tree/master/0791-custom-sort-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/kalash123e-cmd/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0977-squares-of-a-sorted-array) |
