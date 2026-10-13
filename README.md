@@ -143,6 +143,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalash123e-cmd/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kalash123e-cmd/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -429,6 +430,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kalash123e-cmd/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kalash123e-cmd/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/kalash123e-cmd/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
