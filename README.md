@@ -192,6 +192,7 @@
 | [0904-fruit-into-baskets](https://github.com/kalash123e-cmd/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kalash123e-cmd/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kalash123e-cmd/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalash123e-cmd/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -278,6 +279,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/kalash123e-cmd/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalash123e-cmd/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -387,6 +389,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
