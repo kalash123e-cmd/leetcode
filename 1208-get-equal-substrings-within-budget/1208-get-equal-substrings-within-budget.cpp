@@ -1,9 +1,9 @@
 class Solution {
 public:
     int equalSubstring(string s, string t, int k) {
-        vector<int> arr;
+        vector<int> arr(s.size());
         for(int i = 0; i<s.size(); i++){
-            arr.push_back(abs(s[i]-t[i]));
+            arr[i] = abs(s[i]-t[i]);
         }
         int sum = 0;
         int j = 0;
