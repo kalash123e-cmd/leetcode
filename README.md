@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/kalash123e-cmd/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kalash123e-cmd/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/kalash123e-cmd/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -879,4 +880,24 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalash123e-cmd/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
