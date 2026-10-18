@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/kalash123e-cmd/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/kalash123e-cmd/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/kalash123e-cmd/leetcode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1929-concatenation-of-array) |
@@ -637,6 +639,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
