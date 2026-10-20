@@ -96,6 +96,7 @@
 | [0704-binary-search](https://github.com/kalash123e-cmd/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kalash123e-cmd/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kalash123e-cmd/leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -260,6 +261,7 @@
 | [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kalash123e-cmd/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kalash123e-cmd/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/kalash123e-cmd/leetcode/tree/master/0986-interval-list-intersections) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kalash123e-cmd/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
