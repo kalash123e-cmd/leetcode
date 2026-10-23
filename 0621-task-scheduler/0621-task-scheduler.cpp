@@ -12,10 +12,8 @@ public:
         for(auto i : f){
             int freq = i.second;
             int task = i.first;
-            
             pq.push({freq,task});
         }
-        // int free;
         int seat = 1;
         while(!pq.empty()){
             vector<pair<int,char>> pulled ;
@@ -38,42 +36,6 @@ public:
                 pq.push(pulled[i]);
             }
             seat++;
-            // pq.pop();
-            // if(seat == 1){
-                
-            //     p.first--;
-            //     free[pq.top().second] = seat + k + 1;
-            //     pq.pop();
-            //     if(p.first != 0){
-            //         pq.push(p);
-            //     }
-            //     seat++;
-            //     continue;
-            // }
-            // if(free[pq.top().second] <= seat){
-                
-            //     p.first--;
-            //     free[pq.top().second] = seat + k + 1;
-            //     pq.pop();
-            //     if(p.first != 0){
-            //         pq.push(p);
-            //     }
-            //     seat++;
-            // }
-            // else{
-                
-            //     pair<int,char> p2 = {pq.top()};
-            //     pq.pop();
-            //     if()
-            //     free[pq.top().second] = seat + k + 1;
-            //     pq.pop();
-            //     seat++;
-            //     p2.first--;
-            //     if(p2.first != 0){
-            //         pq.push(p2);
-            //     }
-            // }
-
         }
         return seat-1;
     }
