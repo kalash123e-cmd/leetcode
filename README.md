@@ -148,6 +148,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kalash123e-cmd/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -240,6 +241,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kalash123e-cmd/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1854-maximum-population-year](https://github.com/kalash123e-cmd/leetcode/tree/master/1854-maximum-population-year) |
+| [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3355-zero-array-transformation-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3903-smallest-stable-index-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -318,6 +320,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kalash123e-cmd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/kalash123e-cmd/leetcode/tree/master/2490-circular-sentence) |
