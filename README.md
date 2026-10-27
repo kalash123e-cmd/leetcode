@@ -22,6 +22,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kalash123e-cmd/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kalash123e-cmd/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -150,6 +151,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kalash123e-cmd/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -441,6 +443,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalash123e-cmd/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -469,6 +472,7 @@
 | [1854-maximum-population-year](https://github.com/kalash123e-cmd/leetcode/tree/master/1854-maximum-population-year) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kalash123e-cmd/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
 |  |
