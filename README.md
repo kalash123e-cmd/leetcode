@@ -312,6 +312,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/kalash123e-cmd/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kalash123e-cmd/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -478,6 +479,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/kalash123e-cmd/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1054-distant-barcodes](https://github.com/kalash123e-cmd/leetcode/tree/master/1054-distant-barcodes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -614,6 +616,7 @@
 | [1094-car-pooling](https://github.com/kalash123e-cmd/leetcode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
