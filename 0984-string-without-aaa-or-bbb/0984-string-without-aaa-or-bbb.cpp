@@ -24,9 +24,9 @@ public:
             pq.pop();
             int n = res.size();
             if(n>=2 && res[n-1] == ch1 &&  res[n-2] == ch1){
-                // if(pq.empty()){
-                //     break;
-                // }
+                if(pq.empty()){
+                    break;
+                }
                 int freq2 = pq.top().first;
                 char ch2 = pq.top().second;
                 pq.pop();
