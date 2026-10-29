@@ -129,6 +129,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kalash123e-cmd/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kalash123e-cmd/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kalash123e-cmd/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -496,6 +497,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/kalash123e-cmd/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1054-distant-barcodes](https://github.com/kalash123e-cmd/leetcode/tree/master/1054-distant-barcodes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -593,6 +595,7 @@
 | [1094-car-pooling](https://github.com/kalash123e-cmd/leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -637,6 +640,7 @@
 | [1094-car-pooling](https://github.com/kalash123e-cmd/leetcode/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
