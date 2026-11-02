@@ -23,6 +23,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalash123e-cmd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/kalash123e-cmd/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kalash123e-cmd/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kalash123e-cmd/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
@@ -149,6 +150,7 @@
 | [1929-concatenation-of-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1929-concatenation-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/kalash123e-cmd/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kalash123e-cmd/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/kalash123e-cmd/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -571,6 +573,7 @@
 | [0695-max-area-of-island](https://github.com/kalash123e-cmd/leetcode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kalash123e-cmd/leetcode/tree/master/0994-rotting-oranges) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kalash123e-cmd/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -611,6 +614,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kalash123e-cmd/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kalash123e-cmd/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
