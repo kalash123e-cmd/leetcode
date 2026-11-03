@@ -189,6 +189,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalash123e-cmd/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [3355-zero-array-transformation-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3903-smallest-stable-index-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -473,6 +476,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/kalash123e-cmd/leetcode/tree/master/3941-password-strength) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
@@ -905,6 +909,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bracket Sequences
 |  |
 | ------- |
