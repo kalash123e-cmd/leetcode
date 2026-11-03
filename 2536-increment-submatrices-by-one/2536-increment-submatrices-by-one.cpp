@@ -10,13 +10,11 @@ public:
             mat[arr[i][2]+1][arr[i][3]+1]++;
         }
         for(int i = 0; i<mat.size(); i++){
-            // mat[0][i] = arr[0][i];
             for(int j = 1; j<mat[0].size(); j++){
                 mat[j][i] = mat[j-1][i] + mat[j][i];
             }
         }
         for(int i = 0; i<mat.size(); i++){
-            // mat[i][0] = arr[i][0];
             for(int j = 1; j<mat[0].size(); j++){
                 mat[i][j] = mat[i][j-1] + mat[i][j];
             }
