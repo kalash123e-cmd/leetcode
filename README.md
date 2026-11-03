@@ -169,6 +169,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kalash123e-cmd/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kalash123e-cmd/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2536-increment-submatrices-by-one](https://github.com/kalash123e-cmd/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2542-maximum-subsequence-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -265,6 +266,7 @@
 | [1854-maximum-population-year](https://github.com/kalash123e-cmd/leetcode/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2536-increment-submatrices-by-one](https://github.com/kalash123e-cmd/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [3355-zero-array-transformation-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3903-smallest-stable-index-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -580,6 +582,7 @@
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kalash123e-cmd/leetcode/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kalash123e-cmd/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2536-increment-submatrices-by-one](https://github.com/kalash123e-cmd/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
