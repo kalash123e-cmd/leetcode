@@ -180,6 +180,7 @@
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalash123e-cmd/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kalash123e-cmd/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3355-zero-array-transformation-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalash123e-cmd/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
