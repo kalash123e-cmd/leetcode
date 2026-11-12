@@ -109,6 +109,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/kalash123e-cmd/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/kalash123e-cmd/leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0849-maximize-distance-to-closest-person](https://github.com/kalash123e-cmd/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/kalash123e-cmd/leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0867-transpose-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0867-transpose-matrix) |
