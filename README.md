@@ -166,6 +166,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/kalash123e-cmd/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -638,6 +639,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/kalash123e-cmd/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/kalash123e-cmd/leetcode/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kalash123e-cmd/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2542-maximum-subsequence-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
