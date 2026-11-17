@@ -364,6 +364,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kalash123e-cmd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -485,6 +486,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/kalash123e-cmd/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kalash123e-cmd/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -517,6 +519,7 @@
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/kalash123e-cmd/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/kalash123e-cmd/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kalash123e-cmd/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
