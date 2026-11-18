@@ -369,6 +369,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/kalash123e-cmd/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/kalash123e-cmd/leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/kalash123e-cmd/leetcode/tree/master/2490-circular-sentence) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kalash123e-cmd/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kalash123e-cmd/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
