@@ -178,6 +178,7 @@
 | [2536-increment-submatrices-by-one](https://github.com/kalash123e-cmd/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2542-maximum-subsequence-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kalash123e-cmd/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -551,6 +552,7 @@
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kalash123e-cmd/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kalash123e-cmd/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kalash123e-cmd/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -659,6 +661,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kalash123e-cmd/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2542-maximum-subsequence-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/kalash123e-cmd/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/kalash123e-cmd/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
