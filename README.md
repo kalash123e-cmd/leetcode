@@ -146,6 +146,7 @@
 | [1512-number-of-good-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1642-furthest-building-you-can-reach](https://github.com/kalash123e-cmd/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kalash123e-cmd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1675-minimize-deviation-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/kalash123e-cmd/leetcode/tree/master/1695-maximum-erasure-value) |
@@ -546,6 +547,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/kalash123e-cmd/leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [1675-minimize-deviation-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalash123e-cmd/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -704,6 +706,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/kalash123e-cmd/leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [1675-minimize-deviation-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1675-minimize-deviation-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kalash123e-cmd/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/kalash123e-cmd/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/kalash123e-cmd/leetcode/tree/master/2233-maximum-product-after-k-increments) |
@@ -1035,4 +1038,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/kalash123e-cmd/leetcode/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [1675-minimize-deviation-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1675-minimize-deviation-in-array) |
 <!---LeetCode Topics End-->
