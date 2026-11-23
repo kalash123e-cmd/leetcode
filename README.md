@@ -94,6 +94,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalash123e-cmd/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/kalash123e-cmd/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kalash123e-cmd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kalash123e-cmd/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
