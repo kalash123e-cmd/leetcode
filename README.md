@@ -12,6 +12,7 @@
 | [0258-add-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kalash123e-cmd/leetcode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/kalash123e-cmd/leetcode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0509-fibonacci-number) |
@@ -217,6 +218,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kalash123e-cmd/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0275-h-index-ii) |
+| [0367-valid-perfect-square](https://github.com/kalash123e-cmd/leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalash123e-cmd/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/kalash123e-cmd/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/0658-find-k-closest-elements) |
