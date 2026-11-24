@@ -29,6 +29,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kalash123e-cmd/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2485-find-the-pivot-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kalash123e-cmd/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -181,6 +182,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/kalash123e-cmd/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/kalash123e-cmd/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2381-shifting-letters-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kalash123e-cmd/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kalash123e-cmd/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -786,6 +788,7 @@
 | [0258-add-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kalash123e-cmd/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/kalash123e-cmd/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/kalash123e-cmd/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kalash123e-cmd/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
