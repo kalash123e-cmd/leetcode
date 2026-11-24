@@ -31,6 +31,7 @@
 | [2485-find-the-pivot-integer](https://github.com/kalash123e-cmd/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/kalash123e-cmd/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kalash123e-cmd/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalash123e-cmd/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kalash123e-cmd/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -195,6 +196,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kalash123e-cmd/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3355-zero-array-transformation-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kalash123e-cmd/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kalash123e-cmd/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalash123e-cmd/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalash123e-cmd/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -267,6 +269,7 @@
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/kalash123e-cmd/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalash123e-cmd/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kalash123e-cmd/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kalash123e-cmd/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
@@ -780,6 +783,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/0258-add-digits) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/kalash123e-cmd/leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kalash123e-cmd/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kalash123e-cmd/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
@@ -963,6 +967,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/kalash123e-cmd/leetcode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kalash123e-cmd/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kalash123e-cmd/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/kalash123e-cmd/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bracket Sequences
 |  |
