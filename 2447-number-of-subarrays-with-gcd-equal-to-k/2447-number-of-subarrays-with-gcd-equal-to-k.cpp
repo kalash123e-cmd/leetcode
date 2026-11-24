@@ -9,6 +9,7 @@ public:
                 if(x==k){
                     count++;
                 }
+                if(x%k!=0 ){break;}
             }
         }
         return count;
