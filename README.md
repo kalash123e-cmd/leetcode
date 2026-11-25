@@ -368,6 +368,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/kalash123e-cmd/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/kalash123e-cmd/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -418,6 +419,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalash123e-cmd/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kalash123e-cmd/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -454,6 +456,7 @@
 | [0503-next-greater-element-ii](https://github.com/kalash123e-cmd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kalash123e-cmd/leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kalash123e-cmd/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -563,6 +566,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/kalash123e-cmd/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0984-string-without-aaa-or-bbb](https://github.com/kalash123e-cmd/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1054-distant-barcodes](https://github.com/kalash123e-cmd/leetcode/tree/master/1054-distant-barcodes) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kalash123e-cmd/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/kalash123e-cmd/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/kalash123e-cmd/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/kalash123e-cmd/leetcode/tree/master/1405-longest-happy-string) |
