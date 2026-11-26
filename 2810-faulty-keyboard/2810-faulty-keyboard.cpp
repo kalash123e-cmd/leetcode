@@ -8,9 +8,11 @@ public:
             if(s[i] == 'i'){
                 // s.erase(i,1);
                 reverse(res.begin(),res.end());
-                continue;
+                // continue;
             }
-            res += s[i];
+            else{
+                res += s[i];
+            }
             
         }
         return res;
