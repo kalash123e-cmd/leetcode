@@ -15,13 +15,6 @@ public:
         ListNode* j = list2;
         ListNode* res = new ListNode(0);
         ListNode* t = res;
-        // if (i->val <= j->val) {
-        //     head = i;
-        //     i = i->next;
-        // } else {
-        //     head = j;
-        //     j = j->next;
-        // }
         while (i != NULL && j != NULL) {
             if (i->val <= j->val) {
                 t->next = new ListNode(i->val);
